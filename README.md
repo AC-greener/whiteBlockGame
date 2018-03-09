@@ -12,5 +12,5 @@ Js实现别踩白块小游戏
 触底则游戏失败，如何判断鼠标点到黑色方块呢？ 只需要添加一个judge函数就ok了
 
 ##游戏效果图：
-![未正常显示](https://github.com/AC-greener/whiteBlock/raw/master/img/game1.png)
-![未正常显示](https://github.com/AC-greener/whiteBlock/raw/master/img/game2.png)
+![未正常显示](https://github.com/AC-greener/whiteBlockGame/raw/master/img/game1.png)
+![未正常显示](https://github.com/AC-greener/whiteBlockGame/raw/master/img/game2.png)
