@@ -10,6 +10,7 @@ Js实现别踩白块小游戏
 4. 让方块动起来
 主要是Js操作dom， 添加定时函数setInterval（）使方块匀速下落，在移动的同时，要判断最下面一行黑色的方块是否触底，
 触底则游戏失败，如何判断鼠标点到黑色方块呢？ 只需要添加一个judge函数就ok了
+
 游戏效果图：
 ![未正常显示](https://github.com/AC-greener/whiteBlockGame/raw/master/img/game1.png)
 ![未正常显示](https://github.com/AC-greener/whiteBlockGame/raw/master/img/game2.png)
